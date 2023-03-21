@@ -26,13 +26,13 @@ My research interest includes natural language processing and dialogue system.
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 Publications
-- Coarse-to-Fine Knowledge Selection for Document Grounded Dialogs. \
+- **Coarse-to-Fine Knowledge Selection for Document Grounded Dialogs**. \
 Yeqin Zhang, **Haomin Fu**, Cheng Fu, Haiyang Yu, Yongbin Li, Cam-Tu Nguyen. \
-**ICASSP 2023**. [[Paper](https://arxiv.org/pdf/2302.11849)]
+ICASSP 2023. [[Paper](https://arxiv.org/pdf/2302.11849)]
 
-- Doc2Bot: Accessing Heterogeneous Documents via Conversational Bots. \
+- **Doc2Bot: Accessing Heterogeneous Documents via Conversational Bots**. \
 **Haomin Fu**, Yeqin Zhang, Haiyang Yu, Jian Sun, Fei Huang, Luo Si, Yongbin Li, Cam-Tu Nguyen. \
-**Findings of EMNLP 2022**. [[Paper](https://arxiv.org/pdf/2210.11060)]
+Findings of EMNLP 2022. [[Paper](https://arxiv.org/pdf/2210.11060)]
 
   
 # 📖 Educations
