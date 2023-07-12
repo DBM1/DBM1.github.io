@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haomin Fu"
-description              : "I'm currently an NLP engineer at Meituan, focusing on LLM pre-training."
+description              : ""
 repository               : "DBM1/DBM1.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haomin Fu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanjing University"
-  location         : "Nanjing, China"
+  bio              : "Meituan"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8lpUy6MAAAAJ"
