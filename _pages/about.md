@@ -40,5 +40,6 @@ Findings of EMNLP 2022. [[Paper](https://arxiv.org/pdf/2210.11060)]
 - *2016.09 - 2020.06*, B.S., School of Software Engineering, Southeast University, Nanjing.
 - *2013.09 - 2016.06*, Hangzhou No.2 High School, Hangzhou.
 
-# 💻 Internships
-- *2022.01 - 2023.01*, Damo Academy, Alibaba Group, Beijing.
+# 💻 Internships & Careers
+- *2023.07 - Now*, Engineer, NLP Center, Meituan, Beijing.
+- *2022.01 - 2023.01*, Research Intern, Damo Academy, Alibaba Group, Beijing.
